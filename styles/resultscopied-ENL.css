@@ -1,0 +1,231 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.resultscopied-MQ8 {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.resultscopied-MQ8 .header-tur {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .header-tur .auto-group-bxn4-4JY {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .header-tur .auto-group-bxn4-4JY .psyscreen-PLp {
+  margin: 0rem 1rem 0.4rem 0rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #e7f9ff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .header-tur .auto-group-bxn4-4JY .auto-group-y64u-h6c {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .header-tur .auto-group-bxn4-4JY .auto-group-y64u-h6c .brightness-enY {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .header-tur .auto-group-bxn4-4JY .auto-group-y64u-h6c .language-bBz {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .header-tur .rectangle-3-vk4 {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ {
+  box-sizing: border-box;
+  padding: 0rem 1.9rem 5.5rem 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-maeg-yCY {
+  margin: 0rem 0.1rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 1rem 0rem 3.3rem;
+  width: calc(100% - 0.1rem);
+  height: 10rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.2rem #7adcfc;
+  background-color: rgba(122, 220, 252, 0.3000000119);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-maeg-yCY .auto-group-ztqa-fbA {
+  margin-right: 1.3rem;
+  width: 25.3rem;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-maeg-yCY .auto-group-ztqa-fbA .il10oo8wvv-Cb6 {
+  width: 25.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-maeg-yCY .auto-group-ztqa-fbA .your-code-is-7CG {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-maeg-yCY .check-lg-1-cPv {
+  margin-top: 1.075rem;
+  width: 1.1rem;
+  height: 0.8499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .save-this-code-so-you-have-the-option-of-revisiting-your-test-results-in-the-future-WEQ {
+  margin-bottom: 1rem;
+  max-width: 32.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .depression--bWk {
+  margin-right: 13.6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .no-strong-indications-of-depression-were-detected-LDS {
+  margin: 0rem 1.7rem 0.6rem 0rem;
+  max-width: 30.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .anxiety-disorder--diL {
+  margin-right: 5.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-urqw-AyA {
+  margin-right: 0.6rem;
+  width: 31.5rem;
+  height: 11.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-urqw-AyA .anxiety-disorder-indications-found-please-contact-a-professional-for-a-proper-examination-WXE {
+  width: 31.5rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-urqw-AyA .rectangle-10-CQ4 {
+  width: 16rem;
+  height: 5rem;
+  position: absolute;
+  left: 8rem;
+  top: 6.6rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #e7f9ff;
+  border-radius: 9rem;
+}
+.resultscopied-MQ8 .auto-group-sy9s-SiQ .auto-group-urqw-AyA .copied-u3a {
+  width: 5.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 8.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

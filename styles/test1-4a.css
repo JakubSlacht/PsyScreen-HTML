@@ -1,0 +1,475 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.test1-4a-1Jk {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.test1-4a-1Jk .header-MNc {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .header-MNc .auto-group-he4u-7cg {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .header-MNc .auto-group-he4u-7cg .psyscreen-dL8 {
+  margin: 0rem 1rem 0.4rem 0rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .header-MNc .auto-group-he4u-7cg .auto-group-rn5z-KcG {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .header-MNc .auto-group-he4u-7cg .auto-group-rn5z-KcG .brightness-UEG {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .header-MNc .auto-group-he4u-7cg .auto-group-rn5z-KcG .language-oGY {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .header-MNc .rectangle-3-KEt {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC {
+  box-sizing: border-box;
+  padding: 0rem 2rem 6rem 2rem;
+  width: 100%;
+  row-gap: 1.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .progress-bar-jZW {
+  width: 100%;
+  height: 4.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .progress-bar-jZW .done-0-gUk {
+  width: 11.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 10.1rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7adcfc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .progress-bar-jZW .rectangle-5-PPA {
+  width: 32rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  border: solid 0.1rem #7adcfc;
+  box-sizing: border-box;
+  border-radius: 9rem;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .question-1-do-you-feel-tired-and-or-exhausted-as-of-late-oxg {
+  margin-bottom: 1rem;
+  max-width: 26.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .question-1-do-you-feel-tired-and-or-exhausted-as-of-late-oxg .question-1-do-you-feel-tired-and-or-exhausted-as-of-late-oxg-sub-0 {
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .question-1-do-you-feel-tired-and-or-exhausted-as-of-late-oxg .question-1-do-you-feel-tired-and-or-exhausted-as-of-late-oxg-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN {
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN .answer-button-f7i {
+  margin-right: 1.3333rem;
+  box-sizing: border-box;
+  padding: 1.68rem 0.703rem 1.42rem 0.797rem;
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #f4983b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN .answer-button-f7i .totally-untrue-Nnp {
+  max-width: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f4983b;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN .answer-button-gYc {
+  margin-right: 1.3333rem;
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(244, 152, 59, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(244, 152, 59, 0.6999999881);
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN .answer-button-LNG {
+  margin-right: 1.3334rem;
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(122, 220, 252, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(122, 220, 252, 0.6999999881);
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN .answer-button-MYG {
+  box-sizing: border-box;
+  padding: 1.68rem 0.703rem 1.42rem 0.797rem;
+  width: 7rem;
+  height: 100%;
+  background-color: #7adcfc;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-1-frU .answer-row-iTN .answer-button-MYG .totally-true-sWc {
+  max-width: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .question-2-have-you-felt-strong-feelings-of-sadness-lately-wWU {
+  margin-bottom: 1rem;
+  max-width: 30rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .question-2-have-you-felt-strong-feelings-of-sadness-lately-wWU .question-2-have-you-felt-strong-feelings-of-sadness-lately-wWU-sub-0 {
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .question-2-have-you-felt-strong-feelings-of-sadness-lately-wWU .question-2-have-you-felt-strong-feelings-of-sadness-lately-wWU-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z {
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z .answer-button-qVN {
+  margin-right: 1.3333rem;
+  box-sizing: border-box;
+  padding: 1.68rem 0.703rem 1.42rem 0.797rem;
+  width: 7rem;
+  height: 100%;
+  background-color: #f4983b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z .answer-button-qVN .totally-untrue-ZRN {
+  max-width: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z .answer-button-58p {
+  margin-right: 1.3333rem;
+  width: 7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(244, 152, 59, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(244, 152, 59, 0.6999999881);
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z .answer-button-jjA {
+  margin-right: 1.3334rem;
+  width: 7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(122, 220, 252, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(122, 220, 252, 0.6999999881);
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z .answer-button-pEp {
+  box-sizing: border-box;
+  padding: 1.68rem 0.703rem 1.42rem 0.797rem;
+  width: 7rem;
+  height: 100%;
+  border: solid 0.1rem #7adcfc;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-2-PE4 .answer-row-61z .answer-button-pEp .totally-true-kPN {
+  max-width: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7adcfc;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .question-3-have-you-felt-strong-anxiety-in-the-past-two-weeks-yX2 {
+  margin-bottom: 1rem;
+  max-width: 31.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .question-3-have-you-felt-strong-anxiety-in-the-past-two-weeks-yX2 .question-3-have-you-felt-strong-anxiety-in-the-past-two-weeks-yX2-sub-0 {
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .question-3-have-you-felt-strong-anxiety-in-the-past-two-weeks-yX2 .question-3-have-you-felt-strong-anxiety-in-the-past-two-weeks-yX2-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr {
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr .answer-button-tGc {
+  margin-right: 1.3333rem;
+  box-sizing: border-box;
+  padding: 1.68rem 0.703rem 1.42rem 0.797rem;
+  width: 7rem;
+  height: 100%;
+  background-color: #f4983b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr .answer-button-tGc .totally-untrue-ouN {
+  max-width: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr .answer-button-wVn {
+  margin-right: 1.3333rem;
+  width: 7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(244, 152, 59, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(244, 152, 59, 0.6999999881);
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr .answer-button-p3n {
+  margin-right: 1.3334rem;
+  width: 7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(122, 220, 252, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(122, 220, 252, 0.6999999881);
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr .answer-button-Hxx {
+  box-sizing: border-box;
+  padding: 1.68rem 0.703rem 1.42rem 0.797rem;
+  width: 7rem;
+  height: 100%;
+  border: solid 0.1rem #7adcfc;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .item-3-EpL .answer-row-Xwr .answer-button-Hxx .totally-true-phz {
+  max-width: 5.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7adcfc;
+  font-family: Inter, 'Source Sans Pro';
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .press-button-w1v {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 0.9rem 1.6rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .press-button-w1v .next-page-reg {
+  margin-right: 13.3rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.test1-4a-1Jk .auto-group-9j6x-2QC .press-button-w1v .arrow-right-1-zVz {
+  margin-bottom: 0.1rem;
+  width: 2.8002rem;
+  height: 1.6315rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

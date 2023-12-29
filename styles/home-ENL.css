@@ -1,0 +1,188 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.home-T7z {
+  width: 100%;
+  min-height: 70rem;
+  height: 100vh;
+  position: relative;
+  background-color: #ffffff;
+}
+.home-T7z .press-button-C5a {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 0.9rem 1.6rem;
+  width: calc(100% - 4rem);
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: calc(100% - 11rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(247, 128, 10, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+}
+.home-T7z .rectangle-2-oLG {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.home-T7z .code-button-Lqz {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 0.9rem 1.6rem;
+  width: calc(100% - 4rem);
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: calc(100% - 18rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(247, 128, 10, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+}
+.home-T7z .continue-button-akL {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 0.9rem 1.6rem;
+  width: calc(100% - 4rem);
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: calc(100% - 25rem);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+}
+.home-T7z .continue-button-akL .continue-to-the-test-EZz {
+  margin-right: 2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-T7z .continue-button-akL .arrow-right-1-vSp {
+  margin-bottom: 0.1rem;
+  width: 2.8002rem;
+  height: 1.6315rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-T7z .we-offer-you-a-free-screening-for-various-types-of-mental-disorders-all-you-need-to-do-is-tap-the-button-below-and-get-started-you-can-also-enter-the-code-of-an-already-completed-test-3GY {
+  width: calc(100% - 4rem);
+  height: 20.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 21.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-T7z .welcome-FNc {
+  width: 22.1rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 2rem;
+  top: 16rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7adcfc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-T7z .header-xnp {
+  width: 100%;
+  height: 14.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-T7z .header-xnp .auto-group-muf2-WJY {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.home-T7z .header-xnp .auto-group-muf2-WJY .psyscreen-2Xn {
+  margin: 0rem 1rem 0.4rem 0rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #e7f9ff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-T7z .header-xnp .auto-group-muf2-WJY .auto-group-b4np-73S {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-T7z .header-xnp .auto-group-muf2-WJY .auto-group-b4np-73S .brightness-3St {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-T7z .header-xnp .auto-group-muf2-WJY .auto-group-b4np-73S .language-nQU {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-T7z .header-xnp .rectangle-3-7Sk {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}

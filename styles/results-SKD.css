@@ -1,0 +1,199 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.results-omn {
+  width: 100%;
+  min-width: 35rem;
+  min-height: 60rem;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.results-omn .header-kwv {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.results-omn .header-kwv .auto-group-1qec-7Gg {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.results-omn .header-kwv .auto-group-1qec-7Gg .psyscreen-EMJ {
+  margin: 0rem 1rem 0.4rem 0rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.results-omn .header-kwv .auto-group-1qec-7Gg .auto-group-4bnu-vzp {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.results-omn .header-kwv .auto-group-1qec-7Gg .auto-group-4bnu-vzp .brightness-V2L {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.results-omn .header-kwv .auto-group-1qec-7Gg .auto-group-4bnu-vzp .language-Quz {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.results-omn .header-kwv .rectangle-3-96t {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk {
+  box-sizing: border-box;
+  padding: 0rem 1.9rem 5.5rem 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .block-n9r {
+  margin: 0rem 0.1rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0.8rem 0rem 3.3rem;
+  width: calc(100% - 0.1rem);
+  height: 10rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.2rem #7adcfc;
+  background-color: rgba(122, 220, 252, 0.3000000119);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .block-n9r .auto-group-oxqj-swz {
+  margin-right: 1rem;
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .block-n9r .auto-group-oxqj-swz .il10oo8wvv-Dkx {
+  width: 25.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: calc(50% - 12.65rem);
+  top: 2.9rem;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.results-omn .auto-group-c62q-4Uk .block-n9r .auto-group-oxqj-swz .v-kd-je-jDW {
+  width: 12.1rem;
+  height: 3rem;
+  position: absolute;
+  left: calc(50% - 6.05rem);
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.results-omn .auto-group-c62q-4Uk .block-n9r .copy-1-S7v {
+  margin-top: 0.7rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  left: calc(100% - 5rem);
+  position: absolute;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .kd-si-uchovajte-aby-ste-vedeli-v-budcnosti-njs-vsledky-svojho-testu-WtU {
+  margin-bottom: 3.2rem;
+  max-width: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .depresia--PhN {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .neboli-njden-iadne-nznaky-depresie-vhJ {
+  margin-bottom: 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .porucha-zkosti--e7W {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.results-omn .auto-group-c62q-4Uk .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyetrenie-P56 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}

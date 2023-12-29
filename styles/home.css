@@ -1,0 +1,192 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.home-9ik {
+  width: 100%;
+  min-width: 35rem;
+  min-height: 70rem;
+  height: 100vh;
+  position: relative;
+  background-color: #000000;
+}
+.home-9ik .press-button-JLk {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1.1rem 1.6rem 0.9rem 1.6rem;
+  width: calc(100% - 4rem);
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: calc(100% - 11rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(247, 128, 10, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+}
+.home-9ik .rectangle-2-w8p {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.home-9ik .code-button-5F2 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 0.9rem 1.6rem;
+  width: calc(100% - 4rem);
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: calc(100% - 18rem);
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(247, 128, 10, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+}
+.home-9ik .continue-button-j4g {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 0.9rem 1.6rem;
+  width: calc(100% - 4rem);
+  height: 5rem;
+  cursor: pointer;
+  position: relative;
+  left: 2rem;
+  top: calc(100% - 25rem);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+}
+.home-9ik .continue-button-j4g .continue-to-the-test-EGL {
+  margin-right: 2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-9ik .continue-button-j4g .arrow-right-1-Mbr {
+  margin-bottom: 0.1rem;
+  width: 2.8002rem;
+  height: 1.6315rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-9ik .we-offer-you-a-free-screening-for-various-types-of-mental-disorders-all-you-need-to-do-is-tap-the-button-below-and-get-started-you-can-also-enter-the-code-of-an-already-completed-test-UAg {
+  width: calc(100% - 4rem);
+  height: 20.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 21.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-9ik .welcome-6hr {
+  width: 22.1rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 2rem;
+  top: 16rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7adcfc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-9ik .header-REL {
+  width: 100%;
+  height: 14.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-9ik .header-REL .auto-group-whfa-knQ {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.home-9ik .header-REL .auto-group-whfa-knQ .psyscreen-53z {
+  margin: 0rem 1rem 0.4rem 0rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-9ik .header-REL .auto-group-whfa-knQ .auto-group-ztps-b2L {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-9ik .header-REL .auto-group-whfa-knQ .auto-group-ztps-b2L .brightness-93r {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  right: 0;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-9ik .header-REL .auto-group-whfa-knQ .auto-group-ztps-b2L .language-5iC {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-9ik .header-REL .rectangle-3-pQt {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}

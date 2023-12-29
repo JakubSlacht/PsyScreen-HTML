@@ -1,0 +1,201 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.results-wdE {
+  width: 100%;
+  min-width: 35rem;
+  min-height: 60rem;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.results-wdE .header-toN {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.results-wdE .header-toN .auto-group-qska-enY {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.results-wdE .header-toN .auto-group-qska-enY .psyscreen-msA {
+  margin: 0rem 1rem 0.4rem 0rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #e7f9ff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.results-wdE .header-toN .auto-group-qska-enY .auto-group-ldue-UWg {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.results-wdE .header-toN .auto-group-qska-enY .auto-group-ldue-UWg .brightness-qME {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.results-wdE .header-toN .auto-group-qska-enY .auto-group-ldue-UWg .language-yTS {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.results-wdE .header-toN .rectangle-3-JVi {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E {
+  box-sizing: border-box;
+  padding: 0rem 1.9rem 5.5rem 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .block-Kfi {
+  margin: 0rem 0.1rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0.8rem 0rem 3.3rem;
+  width: calc(100% - 0.1rem);
+  height: 10rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.2rem #7adcfc;
+  background-color: rgba(122, 220, 252, 0.3000000119);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .block-Kfi .auto-group-np9w-cep {
+  margin-right: 1rem;
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .block-Kfi .auto-group-np9w-cep .il10oo8wvv-MMW {
+  width: 25.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: calc(50% - 12.65rem);
+  top: 2.9rem;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.results-wdE .auto-group-hj84-19E .block-Kfi .auto-group-np9w-cep .v-kd-je-4Fv {
+  width: 12.1rem;
+  height: 3rem;
+  position: absolute;
+  left: calc(50% - 6.05rem);
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.results-wdE .auto-group-hj84-19E .block-Kfi .copy-1-kPe {
+  margin-top: 0.7rem;
+  left: calc(100% - 5rem);
+  width: 1.6rem;
+  height: 1.6rem;
+  position: absolute;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .kd-si-uchovajte-aby-ste-vedeli-v-budcnosti-njs-vsledky-svojho-testu-qfz {
+  margin-bottom: 3.2rem;
+  max-width: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .depresia--7dW {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .neboli-njden-iadne-nznaky-depresie-rb6 {
+  margin-bottom: 0.6rem;
+  max-width: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .porucha-zkosti--NZS {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.results-wdE .auto-group-hj84-19E .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyetrenie-7mv {
+  max-width: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}

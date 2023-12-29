@@ -1,0 +1,251 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.resultscopied-ak4 {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.resultscopied-ak4 .header-jN4 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .header-jN4 .auto-group-rvun-hJt {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .header-jN4 .auto-group-rvun-hJt .psyscreen-2MA {
+  margin: 0rem 1rem 0.4rem 0rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .header-jN4 .auto-group-rvun-hJt .auto-group-fexn-8f6 {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .header-jN4 .auto-group-rvun-hJt .auto-group-fexn-8f6 .brightness-6M2 {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .header-jN4 .auto-group-rvun-hJt .auto-group-fexn-8f6 .language-qJc {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .header-jN4 .rectangle-3-mi4 {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA {
+  box-sizing: border-box;
+  padding: 0rem 1.9rem 5.5rem 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-moel-28C {
+  margin: 0rem 0.1rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 1rem 0rem 3.3rem;
+  width: calc(100% - 0.1rem);
+  height: 10rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.2rem #7adcfc;
+  background-color: rgba(122, 220, 252, 0.3000000119);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-moel-28C .auto-group-rimj-XKr {
+  margin-right: 1.3001rem;
+  width: 25.3rem;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-moel-28C .auto-group-rimj-XKr .il10oo8wvv-s8p {
+  width: 25.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-moel-28C .auto-group-rimj-XKr .v-kd-je-mjz {
+  width: 12.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-moel-28C .auto-group-rimj-XKr .v-kd-je-U8c {
+  width: 12.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-moel-28C .check-lg-1-Boi {
+  margin-top: 1.075rem;
+  width: 1.1rem;
+  height: 0.8499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .kd-si-uchovajte-aby-ste-vedeli-v-budcnosti-njs-vsledky-svojho-testu-Hbr {
+  margin-bottom: 3.2rem;
+  max-width: 32.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .depresia--mmv {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .neboli-njden-iadne-nznaky-depresie-iBN {
+  margin-bottom: 0.6rem;
+  max-width: 27.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .porucha-zkosti--2C4 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e {
+  width: 29.8rem;
+  height: 11.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG {
+  width: 29.8rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG-sub-0 {
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG .boli-njden-prznaky-zkosti-prosm-kotaktujte-lekra-aby-vm-urobil-riadne-vyestrenie-JvG-sub-2 {
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e .rectangle-10-ZDv {
+  width: 16rem;
+  height: 5rem;
+  position: absolute;
+  left: 8rem;
+  top: 6.6rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #e7f9ff;
+  border-radius: 9rem;
+}
+.resultscopied-ak4 .auto-group-xxjk-VPA .auto-group-xpfe-m9e .skoprovan-4Ra {
+  width: 9.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 8.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

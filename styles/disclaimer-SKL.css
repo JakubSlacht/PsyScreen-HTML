@@ -1,0 +1,153 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%
+}.disclaimer-Msr {
+  width: 100%;
+  min-width: 35rem;
+  min-height: 60rem;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(11, 191, 247, 0.1000000015);
+}
+.disclaimer-Msr .header-7ME {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .header-7ME .auto-group-a24t-g9S {
+  box-sizing: border-box;
+  padding: 2.1rem 2rem 2rem 2rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(11, 190, 247, 0.5);
+  flex-shrink: 0;
+}
+.disclaimer-Msr .header-7ME .auto-group-a24t-g9S .psyscreen-Cda {
+  margin: 0rem 1rem 0.4rem 0rem;
+  cursor: pointer;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.175;
+  color: #e7f9ff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .header-7ME .auto-group-a24t-g9S .auto-group-ka6q-pur {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .header-7ME .auto-group-a24t-g9S .auto-group-ka6q-pur .brightness-zJY {
+  margin-bottom: 0.1rem;
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .header-7ME .auto-group-a24t-g9S .auto-group-ka6q-pur .language-j1E {
+  width: 7.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .header-7ME .rectangle-3-rrY {
+  width: 100%;
+  height: 4rem;
+  background: linear-gradient(180deg, rgba(11, 191, 247, 0.5) -0%, rgba(231, 249, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ {
+  box-sizing: border-box;
+  padding: 1.8rem 2rem 12.1rem 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ .auto-group-y19n-KEL {
+  margin: 0rem 0.3rem 1.7rem 0rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ .auto-group-y19n-KEL .pozor-S44 {
+  width: 14.4rem;
+  height: 5.9rem;
+  left: 0;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7adcfc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ .auto-group-y19n-KEL .berte-na-vedomie-e-test-je-iba-pre-informatvne-ely-na-platn-diagnzu-je-vhodn-navtvi-relneho-pecialistu-absolvujte-test-iba-ak-nie-ste-pod-vplyvom-ommnych-ltok-L9S {
+  left: 0;
+  top: 5.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ .press-button-ifn {
+  box-sizing: border-box;
+  padding: 0.9rem 2.4rem 1.2rem 1.5rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(247, 128, 10, 0.8000000119);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ .press-button-ifn .rozumiem-a-chcem-pokraova-qkQ {
+  margin-right: 2.1rem;
+  max-width: 23.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #e7f9ff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.disclaimer-Msr .auto-group-n9mn-nEQ .press-button-ifn .arrow-right-1-Yui {
+  margin-top: 0.4rem;
+  width: 2.8002rem;
+  height: 1.6315rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
